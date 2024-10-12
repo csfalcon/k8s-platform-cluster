@@ -11,6 +11,6 @@ spec:
     namespace: crossplane-system
   project: default
   source:
-    chart: crossplane-1.17.0.tgz
+    chart: crossplane
     repoURL: https://charts.crossplane.io/stable
-    targetRevision: HEAD
+    targetRevision: 1.17.0
